@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import photo from "./assets/photo.jpg";
 
 export default function Accueil() {
-  const titles = ["Développeur Web 🚀", "Développeur Mobile 📱"];
+  const titles = ["Développeur Web ", "Développeur Mobile "];
   const [index, setIndex] = useState(0);
   const [displayText, setDisplayText] = useState("");
 
