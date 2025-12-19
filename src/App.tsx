@@ -23,7 +23,7 @@ function App() {
     
     {/* Logo ou nom */}
     <div className="mb-4 md:mb-0">
-      <h1 className="text-2xl font-bold text-blue-500">MonSite</h1>
+      <h1 className="text-2xl font-bold text-blue-500">MonPortfolio</h1>
     </div>
 
     {/* Liens rapides */}
