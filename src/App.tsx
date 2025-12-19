@@ -36,7 +36,7 @@ function App() {
   </div>
 
   <div className="text-center mt-6 text-gray-400 text-sm">
-    &copy; {new Date().getFullYear()} MonSite. Tous droits réservés.
+    &copy; {new Date().getFullYear()} MonPortfolio. 
   </div>
 </footer>
 
