@@ -57,7 +57,7 @@ export default function Projets() {
           </div>
         </a>
 
-        {/* --- PROJET 3 --- */}
+        {/* --- PROJET 3 --- 
         <a
           href="https://projet3-en-ligne.com"
           target="_blank"
@@ -80,8 +80,9 @@ export default function Projets() {
             </div>
           </div>
         </a>
+         */}
 
-        {/* --- PROJET 4 --- */}
+        {/* --- PROJET 4 --- 
         <a
           href="https://projet4-en-ligne.com"
           target="_blank"
@@ -103,7 +104,7 @@ export default function Projets() {
               </p>
             </div>
           </div>
-        </a>
+        </a>*/}
       </div>
     </section>
   );
