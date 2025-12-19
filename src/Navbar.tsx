@@ -12,7 +12,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           
           {/* Logo */}
-          <h1 className="text-2xl font-bold text-blue-500">MonSite</h1>
+          <h1 className="text-2xl font-bold text-blue-500">MonPortfolio</h1>
 
           {/* Menu Desktop */}
           <ul className="hidden md:flex space-x-8 text-gray-200 font-medium">
